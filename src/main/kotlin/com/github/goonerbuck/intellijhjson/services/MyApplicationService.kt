@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.goonerbuck.intellijhjson.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.goonerbuck.intellijhjson.MyBundle
 
 class MyApplicationService {
 
